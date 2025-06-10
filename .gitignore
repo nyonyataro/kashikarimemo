@@ -54,3 +54,6 @@ ui-debug.log*
 
 # OS
 Thumbs.db.mcp.json
+
+.claude/
+.devcontainer/
