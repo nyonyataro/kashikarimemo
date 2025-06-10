@@ -41,11 +41,16 @@ firebase-debug.log*
 firestore-debug.log*
 ui-debug.log*
 
+# Firebase config (if accidentally committed)
+# Uncomment if you need to ignore the config file completely
+# src/lib/firebase.ts
+
 # IDE
 .vscode/
 .idea/
 *.swp
 *.swo
+.claude/
 
 # OS
-Thumbs.db
+Thumbs.db.mcp.json
